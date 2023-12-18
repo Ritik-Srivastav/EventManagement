@@ -1,0 +1,2 @@
+1)Move to frontend folder install dependency using npm install and run server using npm run serve
+2)Move to backend folder and install dependency using command:pip install -r requirements.txt and run python app.py
